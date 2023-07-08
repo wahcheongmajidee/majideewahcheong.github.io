@@ -88,6 +88,10 @@ img{
     border-style: solid;
     border-radius: 10px;
 }
+.heading{
+    text-decoration: underline;
+    font-size: 30px;
+}
 .a{
     font-size: 20px;
     width: 60%;
