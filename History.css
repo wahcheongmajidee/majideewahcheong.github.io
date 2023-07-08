@@ -1,0 +1,247 @@
+body{
+    background-color: rgb(255, 241, 197);
+}
+.for{
+    height: 4em;
+    background-color: #820e0e;
+    border-style: solid;
+    border-radius: 10px;
+}
+h1{
+    display: inline;
+    vertical-align:middle;
+}
+.title{
+    margin-left: 15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.fb{
+    float: right;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.dnav{
+    background-color:black;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 4px;
+}
+.nav{
+    display: inline;
+}
+
+.nav a{
+    padding: 2em;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content{
+    background-color: #99cc99;
+    margin: 10px 10px 10px 3px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.heading{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 30px;
+}
+.line{
+    background-color:black;
+    margin: 50px 10px 10px 500px;
+    width: 10px;
+    height: 2470px;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.history1{
+    background-color:white;
+    margin: -2450px 10px 10px 30px;
+    width: 300px;
+    height: 180px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years1{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.history2{
+    background-color:white;
+    margin: 50px 10px 10px 550px;
+    width: 350px;
+    height: 380px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years2{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.history3{
+    background-color:white;
+    margin: 50px 10px 10px 30px;
+    width: 400px;
+    height: 550px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years3{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.history4{
+    background-color:white;
+    margin: 50px 10px 10px 550px;
+    width: 350px;
+    height: 150px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years4{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.history5{
+    background-color:white;
+    margin: 50px 10px 10px 30px;
+    width: 350px;
+    height: 440px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years5{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content5{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.link:hover{
+    height: 33px;
+    width: 33px;
+}
+.history6{
+    background-color:white;
+    margin: 50px 10px 10px 550px;
+    width: 350px;
+    height: 420px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.years6{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.content6{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.page-footer {
+    background-color: black;
+    color: white;
+    
+    padding: 60px 0 30px;
+    height: 280px;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.information{
+    float: left;
+    margin-top: -300px;
+    margin-left: 80px;
+    width: 50%;
+}
+.Information{
+    font-size: 20px;
+}
+.aa{
+    margin-top: -40px;
+}
+.bb{
+    margin-top: -40px;
+    margin-left: 0px;
+}
+.bb img{
+    margin-right: 10px;
+}
+.address{
+    margin-left: 34px;
+}
+.contact{
+    float: right;
+    margin-top: -300px;
+    margin-right: 80px;
+}
+.contact a{
+    color: white;
+    text-decoration: none;
+}
+.Contact{
+    font-size: 20px;
+}
+.copyright{
+    margin-top: 250px;
+    color: #666;
+    text-align: center;
+}
+.icon:hover{
+    color: blue;
+}

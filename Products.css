@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(255, 241, 197)
+}
+.for{
+    height: 4em;
+    background-color: #820e0e;
+    border-style: solid;
+    border-radius: 10px;
+}
+h1{
+    display: inline;
+    vertical-align:middle;
+}
+.title{
+    margin-left: 15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.fb{
+    float: right;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.dnav{
+    background-color:black;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 4px;
+}
+.nav{
+    display: inline;
+}
+.nav a{
+    padding: 2em;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.background {
+    background-color: #99cc99;
+    margin: 10px 10px 10px 3px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.product {
+    text-align: center;
+}
+.p{
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+.page-footer {
+    background-color: black;
+    color: white;
+    padding: 60px 0 30px;
+    height: 280px;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.information{
+    float: left;
+    margin-top: -300px;
+    margin-left: 80px;
+    width: 50%;
+}
+.Information{
+    font-size: 20px;
+}
+.aa{
+    margin-top: -40px;
+}
+.bb{
+    margin-top: -40px;
+    margin-left: 0px;
+}
+.bb img{
+    margin-right: 10px;
+}
+.address{
+    margin-left: 34px;
+}
+.contact{
+    float: right;
+    margin-top: -300px;
+    margin-right: 80px;
+}
+.contact a{
+    color: white;
+    text-decoration: none;
+}
+.Contact{
+    font-size: 20px;
+}
+.copyright{
+    margin-top: 250px;
+    color: #666;
+    text-align: center;
+}
+.icon:hover{
+    color: blue;
+}
