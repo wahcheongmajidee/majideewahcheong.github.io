@@ -40,7 +40,8 @@ h1{
 }
 .content{
     background-color: #99cc99;
-    margin: 10px 10px 10px 3px;
+    margin: 10px 0px 10px 0px;
+    padding-bottom: 20px;
     border-color: green;
     border-width: 5px;
     border-style: solid;
@@ -52,19 +53,9 @@ h1{
     font-size: 35px;
     margin-top: 30px;
 }
-.line{
-    background-color:black;
-    margin: 50px 10px 10px 500px;
-    width: 10px;
-    height: 2470px;
-    border-color:white;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 10px;
-}
 .history1{
     background-color:white;
-    margin: -2450px 10px 10px 30px;
+    margin: 50px 10px 10px 30px;
     width: 300px;
     height: 180px;
     border-color:black;
@@ -85,7 +76,7 @@ h1{
 }
 .history2{
     background-color:white;
-    margin: 50px 10px 10px 550px;
+    margin: -50px 10px 10px 550px;
     width: 350px;
     height: 380px;
     border-color:black;
@@ -106,7 +97,7 @@ h1{
 }
 .history3{
     background-color:white;
-    margin: 50px 10px 10px 30px;
+    margin: -200px 10px 10px 30px;
     width: 400px;
     height: 550px;
     border-color:black;
@@ -127,7 +118,7 @@ h1{
 }
 .history4{
     background-color:white;
-    margin: 50px 10px 10px 550px;
+    margin: -50px 10px 10px 550px;
     width: 350px;
     height: 150px;
     border-color:black;
@@ -148,7 +139,7 @@ h1{
 }
 .history5{
     background-color:white;
-    margin: 50px 10px 10px 30px;
+    margin: -50px 10px 10px 30px;
     width: 350px;
     height: 440px;
     border-color:black;
@@ -173,7 +164,7 @@ h1{
 }
 .history6{
     background-color:white;
-    margin: 50px 10px 10px 550px;
+    margin: -100px 10px 10px 550px;
     width: 350px;
     height: 420px;
     border-color:black;
